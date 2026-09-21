@@ -14,3 +14,5 @@ def function():
     middle_sum = sum(scores[1:4])
 
     print(middle_sum * D)
+
+# O(1) 
