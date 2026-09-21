@@ -15,4 +15,7 @@ def function():
 
     print(middle_sum * D)
 
+if __name__ == '__main__':
+    function()
+
 # O(1) 
