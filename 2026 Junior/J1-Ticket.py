@@ -1,5 +1,5 @@
 def function():
-    inputs = sys.stdin.read().splitlines()
+    inputs = sys.stdin.read().split()
 
     if not inputs or len(inputs) < 3:
         return
