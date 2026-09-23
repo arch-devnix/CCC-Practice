@@ -19,4 +19,8 @@ def function():
         print('N')
 
 
+if __name__ == '__main__':
+    function()
+
+
 # O(1)
